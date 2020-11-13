@@ -39,3 +39,5 @@ console.log(pacientes);
 
 var pacientes = document.querySelectorAll(".paciente");
 console.log(pacientes);
+
+console.log("Hola , mundo!");
