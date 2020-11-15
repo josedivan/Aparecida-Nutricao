@@ -21,12 +21,14 @@ for (var i = 0; i < pacientes.length; i++) {
     console.log("peso inválido");
     pesoValido = false;
     tdImc.textContent = "peso inválido";
+    paciente.classList.add("paciente-invalido");
   }
 
   if (altura <= 0 || altura >= 3.0) {
     console.log("altura inválida");
     alturaValida = false;
     tdImc.textContent = "Altura inválido";
+    paciente.classList.add("paciente-invalido");
   }
   if (alturaValida && pesoValido) {
     var imc = peso / (altura * altura);
