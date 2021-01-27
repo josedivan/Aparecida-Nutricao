@@ -16,10 +16,13 @@ Objetivo desse curso foi implementar um projeto **Aparecida Nutrição** com a f
  - **Boas práticas de Programação Js** 
   
  - **Buscando dados no servidor com Ajax** 
+ 
+ 
+ 
   
   ### :computer: Acesso ao site 
 
-Veja o resultado acessando o [link](https://aparecida-nutricaoimc.netlify.app//) para ver o resultado. 
+Veja o resultado acessando o [link](https://aparecida-nutricaoimc.netlify.app//) 
 
 
 
