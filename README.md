@@ -1,7 +1,7 @@
 
 ## **:rocket: OBJETIVO**
 Objetivo desse curso foi implementar um projeto **Aparecida Nutrição** com a finalidade de aprimorar os conhecimentos na linguagem **JavaScript** , utilizando javascript puro e as boas práticas de programação.
-
+<br><br>
 
 ## **:computer: TECNOLOGIAS**
 
@@ -16,9 +16,7 @@ Objetivo desse curso foi implementar um projeto **Aparecida Nutrição** com a f
  - **Boas práticas de Programação Js** 
   
  - **Buscando dados no servidor com Ajax** 
- 
- 
- 
+ <br><br>
   
   ### :computer: Acesso ao site 
 
